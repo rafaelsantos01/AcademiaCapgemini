@@ -6,6 +6,7 @@
 Utilizei o java para realizar este testes, é a linguagem que tenho mais contato, e é a que eu escolhi para me desenvover na programação.
 Utilizei o Apache NetBeans como IDE.
 
+*Utilizei o JUnit 4.13 para realizar os testes unitarios.Foi meu primento contato com o  framework.
 
 
 <h2>📃Questão 01</h2>
