@@ -8,6 +8,17 @@ Utilizei o Apache NetBeans como IDE.
 
 *Utilizei o JUnit 4.13 para realizar os testes unitarios.Foi meu primento contato com o  framework.
 
+<h2>📃Executando o projeto</h2>
+
+Para usar o projeto, siga estas etapas:
+
+Crie um clone do repositório em sua máquina local:
+
+git clone https://github.com/rafaelsantos01/AcademiaCapgemini.git
+
+ou Pode fazer o download dos arquivos clicando em "code > Download ZIP"
+Apos fazer isso é so importar o arquivo para dentro da sua IDE a utilizado como ja dito foi o NetBens 12.
+
 
 <h2>📃Questão 01</h2>
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
