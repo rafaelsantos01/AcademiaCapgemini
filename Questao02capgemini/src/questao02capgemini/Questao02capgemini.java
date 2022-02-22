@@ -30,6 +30,7 @@ public class Questao02capgemini {
             verificaSenha(senha);
         }else{
             System.out.println("Sua senha é uma senha forte!");
+            break;
         }
         }while(senha.length()< 6);//o laço so se encerra caso o usuario digite uma senha com 6 digitos.
         return passou;
