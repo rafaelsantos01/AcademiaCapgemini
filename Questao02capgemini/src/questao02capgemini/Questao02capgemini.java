@@ -36,9 +36,8 @@ public class Questao02capgemini {
     }
     
     public static boolean verificaSenhaForte(String senha){
-        if(senha.length()> 6) return true;
-        
-        return false;
+        if(senha.length()< 6) return true;
+        else return false;
     }
     
     
