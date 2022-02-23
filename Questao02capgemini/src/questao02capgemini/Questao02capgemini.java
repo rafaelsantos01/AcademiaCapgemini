@@ -27,7 +27,7 @@ public class Questao02capgemini {
             System.out.println("Aconcelhamos o uso dos caracteres especiais !@#$%¨&*()+-");
             System.out.println("Digite a sua senha:");
             senha = entrada.nextLine();
-            verificaSenha(senha);
+            verificaSenhaForte(senha);
         }else{
             System.out.println("Sua senha é uma senha forte!");
             break;
